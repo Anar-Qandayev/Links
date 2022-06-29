@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/areas?view=aspnetcore-6.0
+https://www.tutorialsteacher.com/mvc/area-in-asp.net-mvc
+https://www.c-sharpcorner.com/article/curd-operation-with-image-upload-in-asp-net-core-5-mvc/
+https://www.freecodespot.com/blog/asp-net-core-identity/
